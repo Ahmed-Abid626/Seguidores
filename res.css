@@ -1,0 +1,122 @@
+@media screen and (max-width:768px){
+    .wrapper{width: 768px;}
+    .logo{margin: 1% 0 0 1%;}
+    .row-1 a h2 {font-size: 40px;}
+    .row-1 {width: 102%;padding: 0 0 2% 0;}
+    .row-1-col-1{width: 60%;height: auto;}
+    .row-1-col-1 form select {float: right;margin: 15px 12px 0 0;}
+    .navbar {margin: 4% 0px 0 0;}
+    .anchorr {font-size: 28px;}
+    .h-1{font-size: 60px;margin: 5% 0 0 0;}
+    .position-absolute{display: none;}
+    .row-2 ul {margin: 3% 0 3% 0;}
+    .row-2,.row-3,.row-4 {width: 102%;}
+    .row-3 p{font-size: 25px;}
+    .row-4 h3{font-size: 30px;}
+    .row-4 ol li {font-size: 28px;}
+    .row-4 ol {margin: 1.5% 0 1.5% 11%;}
+    .row-5-col {width: 44%;height: auto;margin: 1% 2.5%;}
+    .row-5-col span {padding: 6% 0px;}
+    .row-5-col span img {width: 50%;}
+    .row-5-col h3 {font-size: 30px;}
+    .row-5-col p {font-size: 12px;}
+    .row-5-col:nth-child(5){margin: 1% 0 0 29%;}
+    .row-6-box input{font-size: 28px;}
+    .submit{font-size: 20px;}
+    .row-7{text-align: center;}
+    .nav-1 {display: inline-block;float: none;padding: 2% 0;}
+    .nav-1 li a{font-size: 22px;}
+    .row-7-col-1{width: 50%;margin: 0;height: auto;}
+    .row-7-col-2{width: 50%;margin: 0;height: auto;}
+    .row-7-col-1 p {font-size: 28px;}
+}
+@media screen and (max-width:640px){
+    .wrapper{width: 640px;}
+    .row-1 a h2 {font-size: 35px;}
+    .row-1-col-1 form select{font-size: 18px;}
+    .nav-list {margin: 0 27px;}
+    .anchorr {font-size: 24px;}
+    .h-1 {font-size: 45px;}
+    .row-2 span {font-size: 35px;}
+    .row-2 ul li a{padding: 18% 0;}
+    .row-2 img{width: 50%;}
+    .row-3 p {font-size: 20px;}
+    .row-4 h3 {font-size: 25px;}
+    .row-4 ol li {font-size: 20px;}
+    .row-5-col h3 {font-size: 25px;}
+    .row-6{text-align: center;}
+    .row-6 form{width: 70%;display: inline-block;float: none;}
+    .row-6-col{width: 100%;height: auto;margin: 0;}
+    .row-6-box{width: 100%;}
+    .row-6-box img {margin: 10px 0 0 10px;float: left;}
+    .row-6-box input {font-size: 25px;width: 77%;}
+    .row-6-col ul li a {font-size: 14px;}
+    .row-6-col-submit{width: 35%;height: auto;float: none;display: inline-block;margin: 0 0 5% 0;}
+    .nav-1 li a {font-size: 20px;}
+    .row-7-col-1 p {font-size: 22px;margin: 2% 0 0 0;}
+    .nav-2 li a{width: 70%;height: auto;padding: 18% 0;}
+    .nav-2 li a img {width: 40%;height: auto;}
+    .row-7-col-1 {width: 45%;}
+    .row-7-col-2 {width: 55%;}
+    .nav-2 li {margin: 0 5px;}
+}
+@media screen and (max-width:480px){
+    .wrapper{width: 480px;}
+    .row-1 a h2 {font-size: 30px;}
+    .row-1-col-1 {width: 55%;}
+    .row-1-col-1 form select {font-size: 15px;}
+    .nav-list {margin: 0 15px;}
+    .anchorr {font-size: 20px;}
+    .h-1 {font-size: 35px;}
+    .row-2 span {font-size: 29px;}
+    .row-2 img {width: 40%;}
+    .row-2 ul li a {width: 75%;}
+    .row-3 p {font-size: 16px;}
+    .row-4 h3 {font-size: 20px;margin: 3% 0 0 11%;}
+    .row-4 ol li {font-size: 16px;}
+    .row-5{text-align: center;}
+    .row-5-col {width: 95%;}
+    .row-5-col span {padding: 4% 0px;}
+    .row-5-col p {font-size: 14px;}
+    .row-5-col:nth-child(5) {margin: 1% 2.5%;}
+    .row-6 form{width: 80%;}
+    .row-6-box input {font-size: 20px;}
+    .submit {font-size: 18px;}
+    .nav-1 li a {font-size: 18px;}
+    .row-7-col-1 {width: 100%;padding: 2% 0;}
+    .row-7-col-1 p {font-size: 18px;}
+    .row-7-col-2{text-align: center;width: 100%;display: inline-block;}
+    .nav-2 {float: none;}
+}
+@media screen and (max-width:360px){
+    .wrapper{width: 360px;}
+    .row-1-col-1 {width: 100%;}
+    .logo {text-align: center;float: none;}
+    .row-1-col-1 form select {font-size: 14px;}
+    .anchorr {font-size: 16px;}
+    .h-1 {font-size: 39px;}
+    .row-2 span {font-size: 27px;}
+    .row-2 ul li {margin: 0 ;}
+    .row-2 ul li a {width: 65%;}
+    .row-3 p {font-size: 14px;}
+    .row-4 ol li {font-size: 14px;}
+    .row-5-col span img {width: 40%;}
+    .row-5-col span {width: 25%;padding: 5% 0px;}
+    .row-5-col span img {width: 45%;}
+    .row-5-col p {font-size: 13px;}
+    .row-5-col h3 {font-size: 22px;}
+    .row-6-box{height: 50px;}
+    .row-6-box img {width: 11%;}
+    .row-6-box input {font-size: 18px;}
+    .row-6-col ul li a {font-size: 13px;}
+    .row-6-col-submit {width: 55%;}
+    .nav-1 li a,.row-7-col-1 p {font-size: 16px;}
+    .nav-2 li a {width: 60%;padding: 18% 2%;}
+}
+@media screen and (max-width:320px){
+    .wrapper{width: 320px;}
+    .anchorr {font-size: 15px;}
+    .row-2 span {font-size: 23px;}
+    .nav-1 li a,.row-7-col-1 p {font-size: 15px;}
+    .nav-2 li {margin: 0;}
+}
